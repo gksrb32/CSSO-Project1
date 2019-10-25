@@ -1,10 +1,12 @@
 # CSSO-Project1
-Upper part is written in English, and lower part is written in Korean.
+Upper part is written in English, 아래는 한국어 입니다.
 
+[English]
 Hello, CSSO members!
 Finally, we started to make our first project!
+(Will be updated on 10.26.2019)
 
-
+[한국어]
 안녕하세요, CSSO 멤버분들!
 드디어 우리는 첫번째 프로젝트를 시작하였습니다!
 
