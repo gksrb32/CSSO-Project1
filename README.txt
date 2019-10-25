@@ -1,4 +1,9 @@
 # CSSO-Project1
+
+[Presentation file]
+https://prezi.com/xkiwol_piury/edit/#1_24309637
+Don't recommend to get into the prezi site. I wrote it just in case.
+
 Upper part is written in English, 아래는 한국어 입니다.
 
 [English]
