@@ -9,7 +9,84 @@ Upper part is written in English, 아래는 한국어 입니다.
 [English]
 Hello, CSSO members!
 Finally, we started to make our first project!
-(Will be updated on 10.26.2019)
+
+We decided several important points regarding the first project at the meeting on October 25th, 2019 Friday.
+
+1. Develop Android App
+  We originally discussed about making iOS app, but Mac PC which has Mac OS is needed for iOS app.
+  So, we dediced to make an android app whoever can make on any OS.
+
+2. Use Kotlin
+  In order to make an Android app, Java or Kotlin is used.
+  Java has long history, but it's difficult to use and complex for beginners to learn.
+  To solve the problems, Kotlin was recently devolped.
+  As Google actively encourages the language, there are many developers who start using Kotlin from Java.
+  Kotlin is relatively easier and claener, so it would be nice option for beginners to learn.
+  
+3. Feeling Diary - App idea
+  As developers who make the first app for this project, we shared the opinion that developing an app which has simple functions would be better.
+  So, we decided to make "Feeling Diary", of which function is simple input/save/output and has simple UI.
+  The concept is making notes about your feeling every night, using emoticons.
+  Based on the concept, we are expecting that we can extend the functions of showing the changes of emotions and notes about three thanksful things.
+  
+4. Schedule (7 weeks)
+  The schedule is divided on two parts. 1. Focusing on learning 2. Developing a program while learning.
+First, the period of focusing on learning is 1st~2nd week. Please study the tutorials suggested below and make a note of what you think is needed for our project.
+Second, the peroid of developing a program while learning is 3rd~7th week. Based on the knowledges we learn, we will make Feeling Diary app.
+-1) Make "To do list". Find the structure of the app, prioritize the components, and develop.
+    eg) Make a car. The structure is a handle, seats, engine, and wheels. The priority is the handle and chairs, which the user interacts.
+                    Then, make a engine and wheels, make the vehicle moving.
+        Make a diary app. The structure is User Interface (UI), Input, Save, and Output. The first priority is making the UI.
+                    In UI, the pages design including the basic page, the input windows, the output windows, and buttons, which the user directly interact with.
+                    Also, let the page and menu open when clicking the button.
+-2) Plan the specific schedule based on To do list.
+    If we find what to do, determine the "goal" to achieve during the each meeting. 
+    The 'goal' should be decided with the determination that we will certainly make it how much time is needed.
+-3) Achieve the day's goal at a meeting.
+    If we achieve the goal easier than we expected, keep going to the next goal.
+    If it was harder than we expected, after the meeting, with the helps with family/friends/someone/internet, solve it at all costs.
+-4) Complete building the basic structures (= all intended functions work well!!)
+-5) Find bugs and fix. At the same time, make next to do list with the ideas of design/extended function.
+-6) Repeating the process of 2~4, complete.
+-7) Upload to Android market.
+
+5. Meeting location and time - M:Highland, after 12:00pm / F:Northridge after 1:30pm
+
+6. Team - Monday team and Friday team.
+  Regarding the rold of each team, there are three options.
+  1) Same project, different approach: Make two apps with same purpose and compare each other. If you complete first, we will give you the award.
+  2) Different projects: Simply speaking, develop two apps.
+  3) One project: What Monday team do is the next part of what Friday team did. Vise versa.
+  * Learning period is two weeks, so let's decide during the period.
+
+7-1. Materials to study (Android - Kotlin)
+  Personally, I recommend 4 -> 5 -> 1 sequence.
+-1) https://www.raywenderlich.com/android/learn
+  The site provides the 'make the first app' project for free, and the total hours is less than 3 hr.
+  The roadmap after the project is also provided (30 hrs), and we can take the course with subscribe $19.99 per month.
+  For your information, the swift path (around 40 hrs) that the website provides is good to learn.
+-2) https://www.youtube.com/results?search_query=Kotlin+on+Android 
+  There are many tutorials in Youtube. They are all free.
+-3) https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664
+  If you like to learn from papers and codes instead of video, it is recommended. It's also free.
+-4) https://kotlinlang.org/docs/tutorials/
+  It's a Kotlin tutorial, of which offical website made. I recommend it for learning basic grammar and etc.
+  On the platform, you can code and check the answer, so it would be not boring to learn. Also, free.
+-5) https://developer.android.com/kotlin/get-started
+  It is a tutorial Android made. Throught the process, you will learn a simple application. Also, free.
+  
+ 7-2. Materials to study (iOS - Swift)
+  Personally, I recommend 1 -> 2 -> 3 sequence.
+-1) https://www.raywenderlich.com/ios/learn
+  Same with the first tutorial site of 7-1.
+-2) https://codewithchris.com/learn-swift/
+  It provides very structured tutorials, and all free.
+-3) https://www.hackingwithswift.com/
+  It provides relatively diverse tutorials, including long-term roadmap "100 Days of Swift" that beginner can be mastered. All free.
+  
+  7-3. Materials to study (pdf file for Kotlin and Swift)
+    The sizes are around 600 pages and 900 pages, attached on this github.
+
 
 [한국어]
 안녕하세요, CSSO 멤버분들!
