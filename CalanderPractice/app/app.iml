@@ -25,7 +25,7 @@
       </configuration>
     </facet>
     <facet type="kotlin-language" name="Kotlin">
-      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false" pureKotlinSourceFolders="$MODULE_DIR$/src/debug/kotlin;/Users/Peter/AndroidStudioProjects/CalanderPractice/app/src/debug/java;/Users/Peter/AndroidStudioProjects/CalanderPractice/app/src/release/kotlin;/Users/Peter/AndroidStudioProjects/CalanderPractice/app/src/release/java;/Users/Peter/AndroidStudioProjects/CalanderPractice/app/src/debugAndroidTest/kotlin;/Users/Peter/AndroidStudioProjects/CalanderPractice/app/src/debugUnitTest/kotlin;/Users/Peter/AndroidStudioProjects/CalanderPractice/app/src/releaseUnitTest/kotlin">
+      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false" pureKotlinSourceFolders="$MODULE_DIR$/src/debug/kotlin;/Users/Peter/Desktop/TeamProjects/Project1/CSSO-Project1/CalanderPractice/app/src/debug/java;/Users/Peter/Desktop/TeamProjects/Project1/CSSO-Project1/CalanderPractice/app/src/release/kotlin;/Users/Peter/Desktop/TeamProjects/Project1/CSSO-Project1/CalanderPractice/app/src/release/java;/Users/Peter/Desktop/TeamProjects/Project1/CSSO-Project1/CalanderPractice/app/src/debugAndroidTest/kotlin;/Users/Peter/Desktop/TeamProjects/Project1/CSSO-Project1/CalanderPractice/app/src/debugUnitTest/kotlin;/Users/Peter/Desktop/TeamProjects/Project1/CSSO-Project1/CalanderPractice/app/src/releaseUnitTest/kotlin">
         <compilerSettings>
           <option name="additionalArguments" value="-Xallow-no-source-files" />
         </compilerSettings>
