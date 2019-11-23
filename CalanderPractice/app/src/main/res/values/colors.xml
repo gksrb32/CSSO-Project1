@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!--The color in the website is the theme of the app. https://color.adobe.com/search?q=diary-->
+
 <resources>
     <color name="colorPrimary">#BFB9AE</color>
     <color name="colorPrimaryDark">#595248</color>
