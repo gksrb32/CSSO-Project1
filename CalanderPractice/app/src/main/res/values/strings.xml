@@ -2,4 +2,5 @@
     <string name="app_name">CalanderPractice</string>
     <string name="moodtracker">MoodTracker</string>
     <string name="date">Date</string>
+    <string name="edit">EDIT</string>
 </resources>

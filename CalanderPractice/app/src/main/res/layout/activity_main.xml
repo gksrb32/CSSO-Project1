@@ -55,23 +55,13 @@
             android:id="@+id/mainCalendar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:clickable="false"
             android:dateTextAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:focusable="true"
+            android:focusableInTouchMode="false"
+            android:maxDate="12/31/2024"
+            android:minDate="09/09/2019"
             android:weekDayTextAppearance="@style/TextAppearance.AppCompat.Medium" />
     </LinearLayout>
-
-    <Button
-        android:id="@+id/mainEditBtn"
-        style="@style/Widget.AppCompat.Button.Borderless"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
-        android:background="@color/colorAccent"
-        android:fontFamily="casual"
-        android:text="EDIT"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/linearLayout"
-        app:layout_constraintVertical_bias="0.110000014" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
